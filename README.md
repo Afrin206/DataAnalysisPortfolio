@@ -4,9 +4,9 @@
 
 ## 📌 About Me
 
-I'm an aspiring **Data Analyst** who enjoys exploring data, identifying patterns, and turning raw datasets into meaningful insights. I’m currently building hands-on projects to strengthen my skills in **data analysis, visualization, and problem solving** using real datasets.
+I'm an aspiring **Data Analyst** who enjoys exploring data, identifying patterns, and turning raw datasets into meaningful insights.  I’m currently building hands-on projects to strengthen my skills in **data analysis, visualization, and problem solving** using real datasets.
 
-Curious about how data explains real-world problems and supports better decision-making. I enjoy working with datasets, uncovering trends, and presenting insights in a clear and visual way.  
+Curious about how data explains real-world problems and supports better decision-making.  I enjoy working with datasets, uncovering trends, and presenting insights in a clear and visual way.  
 
 ---
 
