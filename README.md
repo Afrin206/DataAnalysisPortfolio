@@ -1,17 +1,12 @@
 ## 👋 Hi, I'm Afrin Sheikh
 
-I'm an aspiring **Data Analyst** who enjoys exploring data, identifying patterns, and turning raw data into meaningful insights.
-
-I’m currently building hands-on projects to strengthen my skills in **data analysis, visualization, and problem solving** using real datasets.
-
 ---
 
 ## 📌 About Me
 
-- Curious about how data explains real-world problems  
-- Interested in **analyzing trends and uncovering insights**  
-- Focused on learning through **practical data projects**  
-- Passionate about turning messy data into clear stories  
+I'm an aspiring **Data Analyst** who enjoys exploring data, identifying patterns, and turning raw datasets into meaningful insights. I’m currently building hands-on projects to strengthen my skills in **data analysis, visualization, and problem solving** using real datasets.
+
+Curious about how data explains real-world problems and supports better decision-making. I enjoy working with datasets, uncovering trends, and presenting insights in a clear and visual way.  
 
 ---
 
@@ -26,7 +21,7 @@ I’m currently building hands-on projects to strengthen my skills in **data ana
 
 ## 📬 Connect with Me
 
-📧 Email: afrinsheikh206@gmail.com
+📧 Email: afrinsheikh206@gmail.com  
 💼 LinkedIn: [www.linkedin.com/in/afrinsheikh](https://www.linkedin.com/in/afrinsheikh/)
 
 ---
