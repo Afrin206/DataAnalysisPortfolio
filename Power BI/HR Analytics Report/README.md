@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard
+# 📊 Employee Insights & Attrition Analysis
 
 ## 🧾 Overview
 This project showcases an interactive HR Analytics Dashboard built using Power BI.  
